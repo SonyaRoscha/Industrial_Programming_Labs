@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Study\Year_3\Semester_2\Industrial_Programming\IP_Labs\IP_Lab1\IP_Lab1\main.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Study\Year_3\Semester_2\Industrial_Programming\IP_Labs\IP_Lab1\IP_Lab1\main.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Study\Year_3\Semester_2\Industrial_Programming\IP_Labs\IP_Lab1\IP_Lab1\main.cpp(23,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Matrix.cpp
+  Создание кода...
+  IP_Lab1.vcxproj -> D:\Study\Year_3\Semester_2\Industrial_Programming\IP_Labs\IP_Lab1\Debug\IP_Lab1.exe
